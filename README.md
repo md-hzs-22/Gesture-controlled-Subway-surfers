@@ -39,6 +39,7 @@ It uses **OpenCV**, **MediaPipe Hands**, and multithreading for smooth real-time
    python handTracker.py
    ```
 
+Note : This will run on websites like `poki.com` so start it in a browser window and then run the hand tracker file
 ---
 
 ## 🖥 Requirements
