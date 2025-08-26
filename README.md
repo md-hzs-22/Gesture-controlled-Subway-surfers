@@ -56,7 +56,7 @@ The following demo shows how if i move my index finger from one region to anothe
 
 *(Add screenshots or a GIF of the game being controlled by hand gestures)*
 
-Note : Your `Index finger` must be in the region to trigger the action. To trigger it again, or to trigger it two times in a row, take the finger to the still region and then again to the desired region. Still region is the ucolored region.
+##### Note : Your `Index finger` must be in the region to trigger the action. To trigger it again, or to trigger it two times in a row, take the finger to the still region and then again to the desired region. Still region is the ucolored region.
 ---
 
 ## 🚀 Future Improvements
