@@ -36,7 +36,7 @@ It uses **OpenCV**, **MediaPipe Hands**, and multithreading for smooth real-time
    ```
 3. Run the program:
    ```bash
-   python main.py
+   python handTracker.py
    ```
 
 ---
