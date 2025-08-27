@@ -54,9 +54,9 @@ It uses **OpenCV**, **MediaPipe Hands**, and multithreading for smooth real-time
 The following demo shows how if i move my index finger from one region to another, the move is changed. This will be shown in the console.
 
 
-*(Add screenshots or a GIF of the game being controlled by hand gestures)*
+*(Working on the video. Will upload soon)*
 
-##### Note : Your `Index finger` must be in the region to trigger the action. To trigger it again, or to trigger it two times in a row, take the finger to the still region and then again to the desired region. Still region is the ucolored region.
+##### Note : Your `Index finger` must be in the region to trigger the action. To trigger it again, or to trigger it two times in a row, take the finger to the STILL region and then again to the desired region. (STILL region is the ucolored region).
 ---
 
 ## 🚀 Future Improvements
