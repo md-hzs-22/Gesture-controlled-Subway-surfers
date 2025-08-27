@@ -56,7 +56,7 @@ The following demo shows how if i move my index finger from one region to anothe
 
 *(Working on the video. Will upload soon)*
 
-##### Note : Your `Index finger` must be in the region to trigger the action. To trigger it again, or to trigger it two times in a row, take the finger to the STILL region and then again to the desired region. (STILL region is the ucolored region).
+##### Note : Your `Index finger` must be in the region to trigger the action. To trigger it again, or to trigger it two times in a row, take the finger to the STILL region and then again to the desired region. (STILL region is the uncolored region).
 ---
 
 ## 🚀 Future Improvements
